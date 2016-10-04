@@ -141,7 +141,7 @@ footer a,footer a:visited{
 	text-decoration: none;
 }
 #slide5 a{
-	color:white;
+	color:dimgray;
 }
 #slide5 a:visited{
 	color:silver;
@@ -150,6 +150,6 @@ footer a,footer a:visited{
 	color:gray;
 }	
 
-#slide4 a:visited{
+#slide4 a,#slide4 a:visited{
 	color:white;
 }
